@@ -150,6 +150,7 @@ img {
   color: white;
   font-weight: bold;
   text-shadow: 0px 0px 5px rgba(157, 84, 30, 0.75);
+  padding-bottom: 1.4rem;
 }
 .main__content-item {
   background-color: #ffc4c4;
